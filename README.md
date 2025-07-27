@@ -23,8 +23,12 @@ Added slicers for filtering by date, product category, country, and order status
 Shared with stakeholders for business use.
 
 ## Dashboard
+<p>
 <img width="1330" height="782" alt="Shopify Analysis" src="https://github.com/user-attachments/assets/bb0178cf-6ead-4028-9802-c903c23bc169" />
+</p>
+<p>
 <img width="1332" height="785" alt="Details Tab" src="https://github.com/user-attachments/assets/0aab60c9-48b0-45f1-b711-97aa881f9907" />
+</p>
 
 ## Project Insight
 - Sales peaked during specific months, with a strong correlation between promotions and revenue spikes.
